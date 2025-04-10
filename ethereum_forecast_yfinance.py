@@ -6,7 +6,7 @@ import matplotlib.font_manager as fm
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import numpy as np
 
-# 🔧 한글 폰트 설정
+# 🔧 한글 폰트 설정하기
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False
 
